@@ -1,4 +1,5 @@
-
+{
+  "film":[
   {
   "Titre": "Les Minions",
   "directeur": "Kyle Balda, Pierre Coffin",
@@ -18,5 +19,27 @@
       "Personnage": "Walter Nelson (voix)"
     }
   ]
+  },
+    {
+  "Titre": "Les doops",
+  "directeur": "Kyle Balda, Pierre Coffin",
+  "Auteur": "Brian Lynch,",
+  "Date": 2015,
+  "Vedette": [
+    {
+      "Nom": "Sandra Bullcock",
+      "Personnage": "Scarlet Overkill (voix)"
+    },
+    {
+      "Nom": "Jon Hamm",
+      "Personnage": "Herb Overkill  (voix)"
+    },
+    {
+      "Nom": "Michael Keaton",
+      "Personnage": "Walter Nelson (voix)"
+    }
+  ]
   }
+  ]
+}
 
