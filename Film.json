@@ -47,30 +47,6 @@
       "Personnage": "Robert Bob Paulsen"
     }
   ]
-  },
-   {
-  "Titre": "Les Minions",
-  "directeur": "Kyle Balda, Pierre Coffin",
-  "Auteur": "Brian Lynch,",
-  "Date": 2015,
-  "Description":"Minions Stuart, Kevin, and Bob are recruited by Scarlet Overkill, a supervillain who, alongside her inventor husband Herb, hatches a plot to take over the world.",
-  "Vedette": [
-    {
-      "Nom": "Sandra Bullock",
-      "Age":"56",
-      "Personnage": "Scarlet Overkill (voix)"
-    },
-    {
-      "Nom": "Jon Hamm",
-      "Age":"49",
-      "Personnage": "Herb Overkill  (voix)"
-    },
-    {
-      "Nom": "Michael Keaton",
-      "Age":"69",
-      "Personnage": "Walter Nelson (voix)"
-    }
-  ]
   } 
   ]
 }
